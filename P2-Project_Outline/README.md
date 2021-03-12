@@ -11,7 +11,8 @@ This APP is known as EzeeInvest. EzeeInvest helps everyone to get their money ri
 Getting money right means different things to different people. 
 For some, it means being debt free. 
 For others, it means finally being able to buy a home. 
-But no matter what it means to you, we believe there are four key principles to help anyone start.
+But no matter what it means to you, we believe there are four key principles to help anyone start:
+TRACK. SAVE. ENJOY. EARN.
 
 
 ### Features
